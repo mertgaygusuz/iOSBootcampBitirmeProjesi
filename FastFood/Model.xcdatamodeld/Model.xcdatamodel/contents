@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22222" systemVersion="23B81" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="YemeklerModel" representedClassName="YemeklerModel" syncable="YES" codeGenerationType="class">
+        <attribute name="yemek_adi" optional="YES" attributeType="String"/>
+        <attribute name="yemek_fiyat" optional="YES" attributeType="String"/>
+        <attribute name="yemek_resim_adi" optional="YES" attributeType="String"/>
+    </entity>
+</model>
